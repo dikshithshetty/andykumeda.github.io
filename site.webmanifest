@@ -1,0 +1,12 @@
+{
+  "short_name": "AK",
+  "name": "ANDY KUMEDA",
+  "icons": [{
+    "src": "/assets/images/ak-logo.png",
+    "type": "image/png",
+    "sizes": "100x133"
+  }],
+  "start_url": "https://kumeda.com",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}

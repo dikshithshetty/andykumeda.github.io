@@ -1,0 +1,21 @@
+
+<div id="instafeed"></div>
+
+<script type="text/javascript" src="/assets/js/instafeed.min.js"></script>
+
+<script src='https://ig.instant-tokens.com/users/440eb563-0020-4f7d-b1aa-0bc8540ae3b4/instagram/17841401463820432/token.js?userSecret=i0khvaj5ovjok8q15brldr'></script>
+
+<script type="text/javascript">
+  var userFeed = new Instafeed({
+    get: 'user',
+    userId: '27760794',
+    clientId: '17841401463820432',
+    accessToken: 'IGQVJXbFBzSHRkdGU5YW5tMGRSMEx6MG0xSWtpZAUNQU2JNZAjRaelpTMnA2aURIUm9RR3ZAhQXp2Tk1zTXBZAcG1wUUFrUjhFSzd4YlhHcmZA1VDBmZAFlGY1k2MkJEck5ieUxIQmF0OVo0S2E3em1abDg4SgZDZD',
+    resolution: 'standard_resolution',
+    template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /><span>{{likes}}{{comments}}</span></a>',
+    sortBy: 'most-recent',
+    limit: 32,
+    links: false
+  });
+  userFeed.run();
+</script>
