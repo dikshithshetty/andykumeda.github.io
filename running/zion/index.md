@@ -2,6 +2,8 @@
 ---
 Zion 100 Mile Race
 ==================
+Last modified: {{ page.last_modified_at | date: '%a %b %d @ %r' }}
+
 
 **Website:** [Zion Ultras](https://vacationraces.com/ultras/zion)
 
