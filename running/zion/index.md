@@ -26,7 +26,7 @@ Zion 100 Mile Race
 * Date/Time: Friday April 9, Noon-7:00PM
 
 
-<a href="2021-Zion-Drive-thru-bib-pickup.png"><img src="2021-Zion-Drive-thru-bib-pickup.png" width="100" /></a> 
+<a href="./2021-Zion-Drive-thru-bib-pickup.png"><img src="./2021-Zion-Drive-thru-bib-pickup.png" width="100" /></a> 
 click to enlarge
 
 **Drop Bags:**
@@ -49,6 +49,6 @@ click to enlarge
 
 _Note: go to [hellodrifter](https://www.hellodrifter.com/routes/2021-zion-100-mile-by-ak#) for full size map_
 
-* [GPX Download](2021-zion-100M.gpx)
-* [Course Profile](2021-zion-100M-profile.png)
-* [Course Map](2021-zion-100M-map.png)
+* [GPX Download](./2021-zion-100M.gpx)
+* [Course Profile](./2021-zion-100M-profile.png)
+* [Course Map](./2021-zion-100M-map.png)
