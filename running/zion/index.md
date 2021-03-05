@@ -20,7 +20,6 @@ Zion 100 Mile Race
 * Address: [150 N State St, La Verkin, UT 84745](https://g.page/HotelZionInn?share)
 * Confirmation numbers:
   - 362127406 (April 8-12)
-  - 
 
 **Bib Pickup:** April 9, Noon-7:00PM
 
@@ -48,3 +47,5 @@ Zion 100 Mile Race
 _Note: go to [hellodrifter](https://www.hellodrifter.com/routes/2021-zion-100-mile-by-ak#) for full size map_
 
 * [GPX Download](2021-zion-100M.gpx)
+* [Course Profile](2021-zion-100M-profile.png)
+* [Course Map](2021-zion-100M-map.png)
