@@ -37,6 +37,7 @@ Zion 100 Mile Race
 **Course Info:**
 
 <iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd' width="500" height="300"></iframe>
-Note: click on the map title to go to full size page.
+
+_Note: go to [hellodrifter](https://www.hellodrifter.com/routes/2021-zion-100-mile-by-ak#) for full size map_
 
 * [GPX Download](2021-zion-100M.gpx)
