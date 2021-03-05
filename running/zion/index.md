@@ -3,7 +3,7 @@
 Zion 100 Mile Race
 ==================
 
-**Official Website:** https://vacationraces.com/ultras/zion
+**Website:** [Zion Ultras](https://vacationraces.com/ultras/zion)
 
 **Date:** April 10-11, 2021
 
@@ -13,7 +13,14 @@ Zion 100 Mile Race
 * 7:00-7:30AM (50K)
 * 8:00-8:30AM (Half Marathon)
 
-**Location:** [Ruby Rider Ranch](https://bit.ly/rrr-map)
+**Race Location:** [Ruby Rider Ranch](https://bit.ly/rrr-map)
+
+**Hotel Info:** 
+* Website: [Hotel Zion Inn](https://hotelzioninn.com)
+* Address: [150 N State St, La Verkin, UT 84745](https://g.page/HotelZionInn?share)
+* Confirmation numbers:
+  - 362127406 (April 8-12)
+  - 
 
 **Bib Pickup:** April 9, Noon-7:00PM
 
