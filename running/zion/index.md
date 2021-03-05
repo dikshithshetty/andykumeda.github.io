@@ -14,7 +14,6 @@ Zion 100 Mile Race
 * 8:00-8:30AM (Half Marathon)
 
 **Race Location:** [Ruby Rider Ranch](https://bit.ly/rrr-map)
-![Race Start/Finish](2021-Zion-Drive-thru-bib-pickup.png)
 
 **Hotel Info:** 
 * Website: [Hotel Zion Inn](https://hotelzioninn.com)
@@ -25,6 +24,9 @@ Zion 100 Mile Race
 **Bib Pickup:** 
 * Location: [Ruby Rider Ranch](https://bit.ly/rrr-map)
 * Date/Time: Friday April 9, Noon-7:00PM
+
+
+<img src="2021-Zion-Drive-thru-bib-pickup.png" width="200">
 
 **Drop Bags:**
 * Deadline: Friday (4/9) 8:00PM
