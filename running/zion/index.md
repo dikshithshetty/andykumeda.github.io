@@ -32,3 +32,6 @@ Zion 100 Mile Race
 **Miscellaneous Info:**
 * [Facebook course info video]( https://www.facebook.com/watch/live/?v=758444185083165&ref=watch_permalink)
 * [Map of area](https://www.trailforks.com/trails/map/?lat=37.12523&lon=-113.13548&z=12.2&activitytype=1)
+
+Course Map:
+<iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd'></iframe>
