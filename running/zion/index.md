@@ -31,10 +31,10 @@ Zion 100 Mile Race
 * Name, Bib#, aid station, and race distance
 * Min size: gallon size zip lock
 
-**Pacers & Crew:**
-* [Crew Acess Point](https://goo.gl/maps/4kyo1vqHFaVM8Qwy9)
-* [Virgin Desert Aid Station](https://goo.gl/maps/p5rxFZBoznb8urrRA)
-* [Virgin BMX Aid Station](https://goo.gl/maps/fnpPxPqkrCe2ybTZ8)
+**Pacers & Crew Directions:**
+* [Virgin Desert Aid Station (Mile 25.8)](https://goo.gl/maps/p5rxFZBoznb8urrRA)
+* [Virgin BMX Aid Station (Miles 51.8 and 70)](https://goo.gl/maps/fnpPxPqkrCe2ybTZ8)
+* [Crew Acess Point (Mile 80.1)](https://goo.gl/maps/4kyo1vqHFaVM8Qwy9)
 
 **Miscellaneous Info:**
 * [Facebook course video]( https://www.facebook.com/watch/live/?v=758444185083165&ref=watch_permalink)
