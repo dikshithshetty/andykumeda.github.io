@@ -36,7 +36,6 @@ Zion 100 Mile Race
 
 **Course Info:**
 
-<div style="position:relative">
-<iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd' width="300" height="300"></iframe><a href="https://hellodrifter.com" style="position:absolute; top:0; left:0; display:inline-block; width 300px; height: 300px; z-index:5;"></a>
-</div>
+<iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd' width="500" height="300"></iframe>
+
 * GPX (100Mile) Download
