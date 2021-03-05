@@ -3,6 +3,7 @@
 Zion 100 Mile Race
 ==================
 
+**Official Website:** https://vacationraces.com/ultras/zion
 
 **Date:** April 10-11, 2021
 
@@ -30,8 +31,11 @@ Zion 100 Mile Race
 * [Virgin BMX Aid Station](https://goo.gl/maps/fnpPxPqkrCe2ybTZ8)
 
 **Miscellaneous Info:**
-* [Facebook course info video]( https://www.facebook.com/watch/live/?v=758444185083165&ref=watch_permalink)
+* [Facebook course video]( https://www.facebook.com/watch/live/?v=758444185083165&ref=watch_permalink)
 * [Map of area](https://www.trailforks.com/trails/map/?lat=37.12523&lon=-113.13548&z=12.2&activitytype=1)
 
-Course Map:
-<iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd'></iframe>
+**Course Info:**
+
+[<iframe src='https://www.hellodrifter.com/embedded/v1/dlvbdd'></iframe>](https://hellodrifter.com/)
+
+* GPX (100Mile) Download
