@@ -1,6 +1,6 @@
 ---
 ---
-## Zion 100 Mile Race 
+# Zion 100 Mile Race 
 <sub><sup>Last modified: {{ page.last_modified_at | date: '%a %b %d @ %r' }}</sup></sub>
 
 
