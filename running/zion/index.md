@@ -27,7 +27,7 @@
   * Date/Time: Friday April 9, Noon-7:00PM
 
 
-<a href="{{site.url}}/running/zion/2021-Zion-Drive-thru-bib-pickup.png"><img src="{{site.url}}/running/zion/2021-Zion-Drive-thru-bib-pickup.png" width="100" /></a> 
+<a href="{{site.baseurl}}/2021-Zion-Drive-thru-bib-pickup.png"><img src="{{site.baseurl}}/2021-Zion-Drive-thru-bib-pickup.png" width="100" /></a> 
 click to enlarge
 
 **Drop Bags:**
