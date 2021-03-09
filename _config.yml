@@ -17,8 +17,8 @@ tagline: ""
 email: andy@kumeda.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for Andy Kumeda
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://andykumeda.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/running/zion" # the subpath of your site, e.g. /blog
+url: "https://andykumeda-github-io-rc3at.ondigitalocean.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #twitter_username: andykumeda
